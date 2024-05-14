@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 📚 Estudante de Sistemas da Informação na UNIP
-- 🤔 Hobbies: Jogar, ler e desenhar. 
-- 👾 Jogos favoritos: Bloons TD6, Stardew Valley e Two Point Hospital.
-- 📘 Livro favorito: Persuasão - Jane Austen.
+- 📚 Estudante de Sistemas da Informação 
+
 
 
 ### Ferramentas e Linguagens
